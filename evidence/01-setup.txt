@@ -1,0 +1,5 @@
+Parent Repository: https://github.com/AmalChUm/websitetemplate.git
+Fork URL: https://github.com/shayysho/websitetemplate.git
+Local Folder: C:\Users\shaysho\Documents\Career-Fair-Resume\websitetemplate
+Default Branch: master
+Initial Site Behavior: Template website loads locally showing placeholder profile, navigation links, sample project cards, and default design assets.
